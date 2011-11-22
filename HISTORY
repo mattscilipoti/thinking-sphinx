@@ -46,12 +46,12 @@ Edge
 * 1.4.2 changes.
 * 1.4.1 changes.
 
-2.0.1 - November 19th 2011
+2.0.1 - November 19th 2010
 * Intermittent as_json bug fix.
 * Using Rails 3 logging system (Stephen Celis).
 * Fixes for Rails 3.0.2 (Ivan Ukhov).
 
-2.0.0 - November 14th 2011
+2.0.0 - November 14th 2010
 * Handle has_many conditions defined as a hash (Artem Orlov).
 * Deprecation fixes for logging (Anton Sozontov).
 * Only load Thinking Sphinx if ActiveRecord is loaded (Matthew Higgins).
